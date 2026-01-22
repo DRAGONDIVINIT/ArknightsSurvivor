@@ -1,4 +1,4 @@
-# 1.ArknightsSurvivor_方舟幸存者
+# 1 ArknightsSurvivor_方舟幸存者
 
 # 1.1 游戏介绍
 
