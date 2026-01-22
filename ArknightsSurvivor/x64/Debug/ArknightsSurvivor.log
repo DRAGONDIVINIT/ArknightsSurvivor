@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\ArknightsSurvivor\ArknightsSurvivor\Animation.h(14,51): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  ArknightsSurvivor.vcxproj -> C:\Users\Administrator\Desktop\ArknightsSurvivor\x64\Debug\ArknightsSurvivor.exe
